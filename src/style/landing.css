@@ -96,29 +96,3 @@ main{
      }
    
 }
-
-@media (width < 600px) {
-    .intro-text{
-        position: absolute;
-        top: 50%; 
-        gap: 1rem;
-      }
-   
-     span {
-        margin: 0;
-        font-size: 62px;
-      }
-
-      .text-landing{
-        font-size: 42px; 
-        display: block;
-     }
-
-    .challenge{
-        font-size: 42px;
-    }
-
-    .button{
-        top: 2rem;
-    }
-}
