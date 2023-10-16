@@ -13,7 +13,7 @@ const Landing = () => {
                 <p className='para-text'>Challenge yourself by leading with the activities and enjoy the numerious rewards</p>
                 </div>
                 <div>
-                <Link to="sign-up" className='button'>Get Started!</Link>
+                <Link to="/profile" className='button'>Get Started!</Link>
                 </div>
             </div>
         </section>
